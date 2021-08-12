@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Sneakers",
+        "price": 100.99,
+        "image": { "fields": { "file": { "url": "./images/kick1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Yeezys",
+        "price": 612.99,
+        "image": { "fields": { "file": { "url": "./images/kick2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Running shoes",
+        "price": 52.99,
+        "image": { "fields": { "file": { "url": "./images/kick3.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Casuals",
+        "price": 42.99,
+        "image": { "fields": { "file": { "url": "./images/kick4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Formal shoes",
+        "price": 108.99,
+        "image": { "fields": { "file": { "url": "./images/kick5.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Skechers",
+        "price": 190.99,
+        "image": { "fields": { "file": { "url": "./images/kick6.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Superstars",
+        "price": 200.99,
+        "image": { "fields": { "file": { "url": "./images/kick7.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Og whites",
+        "price": 65.99,
+        "image": { "fields": { "file": { "url": "./images/kick8.jpg" } } }
+      }
+    }
+  ]
+}
